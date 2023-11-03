@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/*Deixei o reset aqui porque tinha esquecido como é feito o reset no Styled-components*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
